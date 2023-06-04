@@ -1,10 +1,10 @@
-## Junior Web FE Developer `IngCheon` 입니다 👋
+## 안녕하세요.  정세용 입니다 👋
 
 #### 🌱 I’m currently learning And my stats
 <img src="https://github-readme-stats.vercel.app/api?username=SeYongg&show_icons=true&theme=tokyonight" width="50%">
 
 <!--
-**JangHarry/JangHarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SeYongg/SeYongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
